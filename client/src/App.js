@@ -24,7 +24,8 @@ class App extends React.Component {
 		return (
 			<div className='App'>
 				<h1>Players</h1>
-				/* {this.state.players.map((player) => (
+				/*{" "}
+				{this.state.players.map((player) => (
 					<li>{player}</li>
 				))}
 			</div>
